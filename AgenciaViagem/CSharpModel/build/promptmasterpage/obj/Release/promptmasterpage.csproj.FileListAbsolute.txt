@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\promptmasterpage.dll
-C:\Models\AgenciaViagem\CSharpModel\build\promptmasterpage\obj\Release\promptmasterpage.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\promptmasterpage\obj\Release\promptmasterpage.dll

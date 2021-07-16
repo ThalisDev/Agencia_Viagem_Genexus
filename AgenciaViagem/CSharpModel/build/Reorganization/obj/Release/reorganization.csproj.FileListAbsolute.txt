@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\Reorganization.dll
-C:\Models\AgenciaViagem\CSharpModel\build\reorganization\obj\Release\reorganization.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\reorganization\obj\Release\Reorganization.dll

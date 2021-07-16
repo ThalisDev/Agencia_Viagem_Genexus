@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\notauthorized.dll
-C:\Models\AgenciaViagem\CSharpModel\build\notauthorized\obj\Release\notauthorized.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\notauthorized\obj\Release\notauthorized.dll

@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\gx0060.dll
-C:\Models\AgenciaViagem\CSharpModel\build\gx0060\obj\Release\gx0060.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\gx0060\obj\Release\gx0060.dll

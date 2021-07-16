@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\viewclientes.dll
-C:\Models\AgenciaViagem\CSharpModel\build\viewclientes\obj\Release\viewclientes.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\viewclientes\obj\Release\viewclientes.dll

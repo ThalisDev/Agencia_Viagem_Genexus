@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\rwdmasterpage.dll
-C:\Models\AgenciaViagem\CSharpModel\build\rwdmasterpage\obj\Release\rwdmasterpage.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\rwdmasterpage\obj\Release\rwdmasterpage.dll

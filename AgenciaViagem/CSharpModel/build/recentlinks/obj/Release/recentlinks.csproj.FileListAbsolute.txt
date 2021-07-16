@@ -1,3 +1,0 @@
-C:\Models\AgenciaViagem\CSharpModel\web\bin\recentlinks.dll
-C:\Models\AgenciaViagem\CSharpModel\build\recentlinks\obj\Release\recentlinks.csprojResolveAssemblyReference.cache
-C:\Models\AgenciaViagem\CSharpModel\build\recentlinks\obj\Release\recentlinks.dll

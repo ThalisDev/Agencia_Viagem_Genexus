@@ -1,2 +1,0 @@
-ALTER TABLE [aeroporto] ALTER COLUMN [AeroportoNome] nvarchar(40) NOT NULL
-
