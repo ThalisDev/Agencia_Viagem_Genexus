@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\developermenu.dll
+C:\Models\AgenciaViagem\CSharpModel\build\developermenu\obj\Release\developermenu.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\developermenu\obj\Release\developermenu.dll

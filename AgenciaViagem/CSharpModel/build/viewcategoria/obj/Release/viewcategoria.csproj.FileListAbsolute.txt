@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\viewcategoria.dll
+C:\Models\AgenciaViagem\CSharpModel\build\viewcategoria\obj\Release\viewcategoria.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\viewcategoria\obj\Release\viewcategoria.dll

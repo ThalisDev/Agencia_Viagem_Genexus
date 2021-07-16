@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\paiscidadewc.dll
+C:\Models\AgenciaViagem\CSharpModel\build\paiscidadewc\obj\Release\paiscidadewc.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\paiscidadewc\obj\Release\paiscidadewc.dll

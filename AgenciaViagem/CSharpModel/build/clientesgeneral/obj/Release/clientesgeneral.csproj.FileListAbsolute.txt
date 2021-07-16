@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\clientesgeneral.dll
+C:\Models\AgenciaViagem\CSharpModel\build\clientesgeneral\obj\Release\clientesgeneral.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\clientesgeneral\obj\Release\clientesgeneral.dll

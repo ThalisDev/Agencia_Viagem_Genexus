@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\categoriaatracaowc.dll
+C:\Models\AgenciaViagem\CSharpModel\build\categoriaatracaowc\obj\Release\categoriaatracaowc.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\categoriaatracaowc\obj\Release\categoriaatracaowc.dll

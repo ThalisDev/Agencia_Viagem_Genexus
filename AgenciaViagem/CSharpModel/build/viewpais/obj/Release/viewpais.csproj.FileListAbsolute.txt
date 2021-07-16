@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\viewpais.dll
+C:\Models\AgenciaViagem\CSharpModel\build\viewpais\obj\Release\viewpais.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\viewpais\obj\Release\viewpais.dll

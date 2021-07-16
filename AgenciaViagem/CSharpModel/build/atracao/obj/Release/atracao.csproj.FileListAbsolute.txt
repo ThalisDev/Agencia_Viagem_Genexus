@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\atracao.dll
+C:\Models\AgenciaViagem\CSharpModel\build\atracao\obj\Release\atracao.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\atracao\obj\Release\atracao.dll

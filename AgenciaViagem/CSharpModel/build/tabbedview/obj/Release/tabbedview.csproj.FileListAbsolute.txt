@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\tabbedview.dll
+C:\Models\AgenciaViagem\CSharpModel\build\tabbedview\obj\Release\tabbedview.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\tabbedview\obj\Release\tabbedview.dll

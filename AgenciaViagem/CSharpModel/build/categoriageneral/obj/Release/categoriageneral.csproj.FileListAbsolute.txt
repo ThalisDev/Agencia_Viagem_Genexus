@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\categoriageneral.dll
+C:\Models\AgenciaViagem\CSharpModel\build\categoriageneral\obj\Release\categoriageneral.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\categoriageneral\obj\Release\categoriageneral.dll

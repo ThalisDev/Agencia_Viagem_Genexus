@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\voo.dll
+C:\Models\AgenciaViagem\CSharpModel\build\voo\obj\Release\voo.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\voo\obj\Release\voo.dll

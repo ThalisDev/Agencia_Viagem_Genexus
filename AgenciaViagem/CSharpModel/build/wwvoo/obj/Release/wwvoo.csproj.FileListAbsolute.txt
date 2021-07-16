@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\wwvoo.dll
+C:\Models\AgenciaViagem\CSharpModel\build\wwvoo\obj\Release\wwvoo.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\wwvoo\obj\Release\wwvoo.dll

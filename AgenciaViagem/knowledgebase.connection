@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_AgenciaViagem</DBName>
+	<IntegratedSecurity>False</IntegratedSecurity>
+	<ServerInstance>MIDGARD</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Models\AgenciaViagem</Directory>
+	<DataFile>GX_KB_AgenciaViagem.mdf</DataFile>
+	<LogFile>GX_KB_AgenciaViagem_log.ldf</LogFile>
+	<HostName>MIDGARD</HostName>
+</ConnectionInformation>

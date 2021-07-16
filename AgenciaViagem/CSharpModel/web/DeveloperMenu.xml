@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus17Trial/</Path>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Home</ObjName>
+      <ObjDesc>Home</ObjDesc>
+      <ObjLink>home.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWCategoria</ObjName>
+      <ObjDesc>Categorias</ObjDesc>
+      <ObjLink>wwcategoria.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWpais</ObjName>
+      <ObjDesc>pais</ObjDesc>
+      <ObjLink>wwpais.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWClientes</ObjName>
+      <ObjDesc>Clientes</ObjDesc>
+      <ObjLink>wwclientes.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWatracao</ObjName>
+      <ObjDesc>atracaos</ObjDesc>
+      <ObjLink>wwatracao.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWaeroporto</ObjName>
+      <ObjDesc>aeroportoes</ObjDesc>
+      <ObjLink>wwaeroporto.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWVoo</ObjName>
+      <ObjDesc>Voos</ObjDesc>
+      <ObjLink>wwvoo.aspx</ObjLink>
+   </Object>
+</Objects>

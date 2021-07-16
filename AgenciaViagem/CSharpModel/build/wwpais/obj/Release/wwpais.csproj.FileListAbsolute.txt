@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\wwpais.dll
+C:\Models\AgenciaViagem\CSharpModel\build\wwpais\obj\Release\wwpais.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\wwpais\obj\Release\wwpais.dll

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportLog>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>Security</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>Page</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>TabCode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>ProgramNames</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>TabOptions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>TransactionContext</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>IsAuthorized</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Warning</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>ListPrograms</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>Home</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>NotAuthorized</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>TabbedView</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+</ImportLog>

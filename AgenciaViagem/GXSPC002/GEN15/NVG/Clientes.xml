@@ -1,0 +1,128 @@
+
+<ObjectSpec>
+<SpecVersion>17_0_4-151606</SpecVersion>
+<Object>
+<ObjClsGuid>1db606f2-af09-4cf9-a3b5-b481519d28f6</ObjClsGuid>
+<ObjCls>0</ObjCls>
+<ObjId>1</ObjId>
+<ObjName>Clientes</ObjName>
+<ObjDesc>Clientes</ObjDesc>
+<ObjPgmName>Clientes</ObjPgmName>
+<ObjClsName>Transaction</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>15</GenId>
+<GenName>Default (C#)</GenName></Generator>
+<FormClass>HTML</FormClass>
+<Parameters>
+<Parameter>
+<IO>in</IO>
+<Variable>
+<VarId>Mode</VarId>
+<VarName>&amp;Mode</VarName></Variable></Parameter>
+<Parameter>
+<IO>in</IO>
+<Variable>
+<VarId>Clienteid</VarId>
+<VarName>&amp;ClienteID</VarName></Variable></Parameter></Parameters>
+<Levels>
+<Level>
+<LevelType>Trn</LevelType>
+<LevelNumber>1</LevelNumber>
+<BaseTable>
+<Table>
+<TableId>1</TableId>
+<TableName>Clientes</TableName>
+<Description>Clientes</Description></Table></BaseTable>
+<NavigationTree>
+<Table>
+<TableId>1</TableId>
+<TableName>Clientes</TableName>
+<Description>Clientes</Description>
+<Updated>Yes</Updated>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>1</AttriId>
+<AttriName>ClienteID</AttriName>
+<Description>Cliente ID</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></NavigationTree>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas>
+<DynamicLoads></DynamicLoads>
+<Rules></Rules>
+<AfterAttributeRules></AfterAttributeRules>
+<AfterConfirmRules></AfterConfirmRules>
+<TablesToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>1</TableId>
+<TableName>Clientes</TableName>
+<Description>Clientes</Description></Table>
+<TableAction>insert</TableAction>
+<AttrisToUpdate>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>ClienteNome</AttriName>
+<Description>Cliente Nome</Description></Attribute>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>ClienteEndereco</AttriName>
+<Description>Cliente Endereco</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>ClienteTelefone</AttriName>
+<Description>Cliente Telefone</Description></Attribute>
+<Attribute>
+<AttriId>6</AttriId>
+<AttriName>ClienteEmail</AttriName>
+<Description>Cliente Email</Description></Attribute>
+<Attribute>
+<AttriId>15</AttriId>
+<AttriName>ClienteDataEntrada</AttriName>
+<Description>Cliente Data Entrada</Description></Attribute></AttrisToUpdate></TableToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>1</TableId>
+<TableName>Clientes</TableName>
+<Description>Clientes</Description></Table>
+<TableAction>update</TableAction>
+<AttrisToUpdate>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>ClienteNome</AttriName>
+<Description>Cliente Nome</Description></Attribute>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>ClienteEndereco</AttriName>
+<Description>Cliente Endereco</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>ClienteTelefone</AttriName>
+<Description>Cliente Telefone</Description></Attribute>
+<Attribute>
+<AttriId>6</AttriId>
+<AttriName>ClienteEmail</AttriName>
+<Description>Cliente Email</Description></Attribute>
+<Attribute>
+<AttriId>15</AttriId>
+<AttriName>ClienteDataEntrada</AttriName>
+<Description>Cliente Data Entrada</Description></Attribute></AttrisToUpdate></TableToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>1</TableId>
+<TableName>Clientes</TableName>
+<Description>Clientes</Description></Table>
+<TableAction>delete</TableAction>
+<AttrisToUpdate></AttrisToUpdate></TableToUpdate></TablesToUpdate>
+<AfterInsertRules></AfterInsertRules>
+<AfterUpdateRules></AfterUpdateRules>
+<AfterDeleteRules></AfterDeleteRules>
+<TablesToControlOnDelete></TablesToControlOnDelete>
+<Levels></Levels>
+<AfterTrnRules></AfterTrnRules>
+<AfterLevelRules></AfterLevelRules></Level></Levels>
+<Suggests></Suggests></ObjectSpec>

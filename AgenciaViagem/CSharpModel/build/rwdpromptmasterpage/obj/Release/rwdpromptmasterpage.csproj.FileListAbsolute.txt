@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\rwdpromptmasterpage.dll
+C:\Models\AgenciaViagem\CSharpModel\build\rwdpromptmasterpage\obj\Release\rwdpromptmasterpage.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\rwdpromptmasterpage\obj\Release\rwdpromptmasterpage.dll

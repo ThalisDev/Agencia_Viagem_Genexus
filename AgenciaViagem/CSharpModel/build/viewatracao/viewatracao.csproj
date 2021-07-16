@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	
+
+	<PropertyGroup>
+		<AssemblyName>viewatracao</AssemblyName>
+		<ProjectGuid>{22ba961d-6303-4408-89e9-2e01a608ee76}</ProjectGuid>
+		<OutputType>Library</OutputType>
+		<PostgresqlSupport>false</PostgresqlSupport>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include=".\..\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj" />
+
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="GeneXus.dll" > 
+			<HintPath>$(WebBinDirectory)\GeneXus.dll</HintPath>
+		</Reference>
+
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Include = "$(WebDirectory)\viewatracao.cs" />
+		<Compile Include = "$(WebDirectory)\isauthorized.cs" />
+
+	</ItemGroup>
+	
+	<Import Project="..\DotNetBaseProject.targets"/>
+</Project>

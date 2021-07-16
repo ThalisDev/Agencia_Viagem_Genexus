@@ -1,0 +1,3 @@
+C:\Models\AgenciaViagem\CSharpModel\web\bin\wwaeroporto.dll
+C:\Models\AgenciaViagem\CSharpModel\build\wwaeroporto\obj\Release\wwaeroporto.csprojResolveAssemblyReference.cache
+C:\Models\AgenciaViagem\CSharpModel\build\wwaeroporto\obj\Release\wwaeroporto.dll

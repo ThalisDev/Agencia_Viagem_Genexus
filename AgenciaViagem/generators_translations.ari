@@ -1,0 +1,13 @@
+lng_i(1,[ 'Portuguese','Portuguese',por ]).
+ 
+lng_prop_i(1,'IsRightToLeft','0',d).
+lng_prop_i(1,'ISOLangCode','PT',v).
+lng_prop_i(1,'ISOCountryCode','BR',v).
+lng_prop_i(1,'Codepage','1252',v).
+lng_prop_i(1,'LanguageLocalization','',d).
+lng_prop_i(1,'LangDateFormat','POR',v).
+lng_prop_i(1,'LangTimeFormat','24',v).
+lng_prop_i(1,'LangDecimalPoint',',',v).
+lng_prop_i(1,'FullyQualifiedName','Portuguese',d).
+ 
+ 
